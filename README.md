@@ -1,16 +1,13 @@
-## Hi there 👋
+# Dom Larner
 
-<!--
-**TheVondas/TheVondas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building applied AI + finance automation systems (FP&A, treasury, close).
 
-Here are some ideas to get you started:
+## Current focus
+- Stanford CS221 (private work)
+- Shipping small, tested Python projects based on what I learn
+- AI agents / RAG prototypes for finance workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pinned projects
+- (coming soon) Close Copilot – auditable month-end assistant
+- (coming soon) Cash Forecast Engine – 13-week forecasting + scenarios
+
